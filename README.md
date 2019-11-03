@@ -1,2 +1,2 @@
 # hellow-world
-This is my first repository on Github
+Just testing if I am learning well.
